@@ -1,0 +1,45 @@
+/* Write your code here. */
+.list-item {
+  list-style-type: none;
+  margin-bottom: 20px;
+  border: 1px solid #d7dae6;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.heading {
+  color: #52606d;
+  font-family: 'Roboto';
+  font-size: 25px;
+  width: 70%;
+}
+.para {
+  font-size: 15px;
+  width: 70%;
+}
+.header-and-button {
+  display: flex;
+  justify-content: space-between;
+
+  align-items: center;
+}
+
+.button {
+  background-color: transparent;
+  border: 0px;
+  outline: none;
+}
+
+.button2 {
+  background-color: #cb8805;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  border: 0px;
+  outline: none;
+  font-size: 25px;
+  width: 30px;
+  height: 35px;
+  border-radius: 18px;
+}
